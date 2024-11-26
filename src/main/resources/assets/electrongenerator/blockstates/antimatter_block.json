@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "electrongenerator:block/antimatter_block"
+    }
+  }
+}
